@@ -1,0 +1,9 @@
+CYBERSECURITY PORT SCAN REPORT
+==============================
+Target: 127.0.0.1
+Port Range: 7999-8002
+
+Scanstarted:13-08-2026 11:02:33
+
+open ports found: 0
+Scan duration: 1.54 seconds
