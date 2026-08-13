@@ -24,4 +24,4 @@ Make sure Python 3 is installed.
 Run the scanner from the project directory:
 
 ```bash
-python scanner.py
+python scanner.PY
